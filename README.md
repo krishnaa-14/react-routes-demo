@@ -1,5 +1,5 @@
 # react-routes-demo
-In this we can understood how to configure react-router-dom in our project. 
+In this, we can understand how to configure react-router-dom in our project. 
 
 react-router-dom
   createBrowserRouter
